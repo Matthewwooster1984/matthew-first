@@ -1,7 +1,7 @@
   Matthew Woosters reading notes 
   
  ### Code-102 
-Go to [class-01]  
+Go to [class-01] (https://Matthewwooster1984.github.io/ 
 Go to [class-02]  
 Go to [class-03]  
 Go to [class-04]  

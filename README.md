@@ -15,7 +15,26 @@
 
 
 # Edith Rough House Wooster Ist
+
+ 
+  ## A Growth Mindset
   
+ ### "Great works are performed, not by strength, but by perseverance." ###
+  
+   Timmy Mallet 1988
+   
+   ### "The very best thing you can do for the whole world is to make the most of yourself." ###
+   
+   Prince Andrew 2022
+   
+   ### "Don't worry about failure. ..." ###
+   
+   Katie Price 2017
+
+
+
+  ![growth-mindset-01](https://user-images.githubusercontent.com/122787462/212985158-c505b01c-9b41-4852-ac72-0c2b911c94e7.png)
+
   
    ## <sub>Reading notes</sub> ##
   

@@ -8,6 +8,17 @@
   
   **Abit about me!**
   
+  my interests include.
+  
+  + Music
+  + Art
+  + Movies
+  + Hi Fi
+  + Antiques
+  + Problem Solving
+  + Fantasy Lore (Warhammer Fantasy)
+  + Old School Trainers circa 80's-90's
+  
  "***its actually all about my dog..***"
   
   

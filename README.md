@@ -1,6 +1,6 @@
-  **Matthew Woosters** 
+  # Matthew Woosters #
   
-  ***<sub>Reading notes</sub>***
+  ## <sub>Reading notes</sub> ##
   
  ### Code-102 
 Go to [class-01]  (https://Matthewwooster1984.github.io/matthew-notes/code-102/class-1)     

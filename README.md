@@ -1,6 +1,6 @@
   # Matthew Woosters Reading Notes  
   
-  ## **Profile** 
+  ## **Profile**  
   
   This profile has been created to catalogue the many notes i will be making during my coding journey, this
   will enable me to easily access the right information for the correct class.

@@ -11,7 +11,7 @@
   ![Edie Rough house Wooster](https://user-images.githubusercontent.com/122787462/212980546-64304343-a1fa-410e-a2ac-bfc77377dc8c.jpg)
 
 
-# Edith Rough House Wooster I
+# Edith Rough House Wooster Ist
   
   
    ## <sub>Reading notes</sub> ##

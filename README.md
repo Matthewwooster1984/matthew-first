@@ -1,6 +1,6 @@
   # Matthew Woosters Reading Notes  
   
-  ## profile 
+  ## **Profile** 
   
   This profile has been created to catalogue the many notes i will be making during my coding journey, this
   will enable me to easily access the right information for the correct class.
@@ -21,15 +21,15 @@
   
  ### "Great works are performed, not by strength, but by perseverance." ###
   
-   Timmy Mallet 1988
+   <strong>Timmy Mallet 1988</strong>
    
-   ### "The very best thing you can do for the whole world is to make the most of yourself." ###
+  ### "The very best thing you can do for the whole world is to make the most of yourself." ###  
    
-   Prince Andrew 2022
+   <strong>Prince Andrew 2022
    
    ### "Don't worry about failure. ..." ###
    
-   Katie Price 2017
+  ~~Adolf Hitler~~ <strong>Katie Price 2017</strong>.
 
 
 

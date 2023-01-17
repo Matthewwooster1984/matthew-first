@@ -34,15 +34,15 @@
   
 > ### "Great works are performed, not by strength, but by perseverance." ###
   
-   <strong>Timmy Mallet 1988</strong>
+   <strong>Timmy Mallet 1988</strong> :hammer:
    
 >  ### "The very best thing you can do for the whole world is to make the most of yourself." ###  
    
-   <strong>Prince Andrew 2022
+   <strong>Prince Andrew 2022</strong> :trollface:
    
 >  ### "Don't worry about failure. ..." ###
    
-  ~~Adolf Hitler~~ <strong>Katie Price 2017</strong>.
+  ~~Adolf Hitler~~ <strong>Katie Price 2017</strong>. :lipstick:
 
 
 

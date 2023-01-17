@@ -1,9 +1,9 @@
   Matthew Woosters reading notes 
   
  ### Code-102 
-Go to [class-01] (https://Matthewwooster1984.github.io/matthew-notes/code-102/class-1) 
-Go to [class-02]  
-Go to [class-03]  
+Go to [class-01]  (https://Matthewwooster1984.github.io/matthew-notes/code-102/class-1)   
+Go to [class-02]  (https://Matthewwooster1984.github.io/matthew-notes/code-102/class-2)     
+Go to [class-03]  (https://Matthewwooster1984.github.io/matthew-notes/code-102/class-3) 
 Go to [class-04]  
 Go to [class-05]  
 Go to [class-06]  

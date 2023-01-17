@@ -1,10 +1,17 @@
-  # Matthew Woosters #
+  # Matthew Woosters 
+  
+  #### profile ###
  
   
   **Abit about me!**
   
+ "***its actually all about my dog..***"
   
   
+  ![Edie Rough house Wooster](https://user-images.githubusercontent.com/122787462/212980546-64304343-a1fa-410e-a2ac-bfc77377dc8c.jpg)
+
+
+Edith Rough House Wooster I
   
   
    ## <sub>Reading notes</sub> ##

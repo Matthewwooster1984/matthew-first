@@ -19,15 +19,15 @@
  
   ## A Growth Mindset
   
- ### "Great works are performed, not by strength, but by perseverance." ###
+> ### "Great works are performed, not by strength, but by perseverance." ###
   
    <strong>Timmy Mallet 1988</strong>
    
-  ### "The very best thing you can do for the whole world is to make the most of yourself." ###  
+>  ### "The very best thing you can do for the whole world is to make the most of yourself." ###  
    
    <strong>Prince Andrew 2022
    
-   ### "Don't worry about failure. ..." ###
+>  ### "Don't worry about failure. ..." ###
    
   ~~Adolf Hitler~~ <strong>Katie Price 2017</strong>.
 
